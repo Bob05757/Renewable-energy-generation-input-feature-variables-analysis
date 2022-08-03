@@ -1,1 +1,3 @@
 # Renewable-energy-generation-input-feature-variables-analysis
+variables_correlation_analysis_processed_data notebook is about the data visualization for processed data
+variables_correlation_analysis_processe_data notebook is about original data visualization
